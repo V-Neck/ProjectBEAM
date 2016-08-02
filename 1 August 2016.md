@@ -61,7 +61,14 @@
   *Why don't we generate a list of topics for short opinion pieces we can write, as well as links to what other people have said about masculinity. I don't think a long-form, wikipedia-style description of what the organization __thinks__ it means to be a man is a particularly useful thing when in the mission statement we explicitly state that there is no one definition*
   
 ### Mission Statement
-
+  Project Be A Man seeks to 
+  + alleviate the anxiety that young men face in trying living up to impossible standards of masculinity
+  + broaden and complicate people's concept of masculinity
+  + spread the messages that 
+    + masculinity is fluid and dynamic
+    + many aspects of being a man more broadly apply to being a human
+    + many classical views on masculinity place both men AND women at a disadvantage
+  
 ### Additonal Thoughts
   + Positive masculinity isn't a bad phrase, but runs into problems of supporting those who are already in a position of privilege
   + We should discourage contributors from viewing the archive until they have writtenn down their own thoughts
