@@ -68,6 +68,7 @@
     + masculinity is fluid and dynamic
     + many aspects of being a man more broadly apply to being a human
     + many classical views on masculinity place both men AND women at a disadvantage
+  + provide a safe space for young people to explore and interrogate their own masculinity. 
   
 ### Additonal Thoughts
   + Positive masculinity isn't a bad phrase, but runs into problems of supporting those who are already in a position of privilege
