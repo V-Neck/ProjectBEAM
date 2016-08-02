@@ -52,10 +52,20 @@
   + Neil Strauss
   + A CEO of a penis enlargment organizaiton
   + Chris Soliday
+  + Stoya
   
 ### Tentative text for explore page 
   An important principle of Project BEAM is to demonstrate the diversity of thoughts and experiences on what it means to be a man. There is no static, singular narrative for masculinity. It is instead defined by billions of dynamic stories that play themselves out in the lives of men and the people around them.
 
-### Tentative text for explore
+### Tentative text for educate page
+  *Why don't we generate a list of topics for short opinion pieces we can write, as well as links to what other people have said about masculinity. I don't think a long-form, wikipedia-style description of what the organization __thinks__ it means to be a man is a particularly useful thing when in the mission statement we explicitly state that there is no one definition*
+  
+### Mission Statement
+
+### Additonal Thoughts
+  + Positive masculinity isn't a bad phrase, but runs into problems of supporting those who are already in a position of privilege
+  + We should discourage contributors from viewing the archive until they have writtenn down their own thoughts
+  + We should generate a list of standard questions to ask, in addtion to more specific questions
+  + 
 
 
